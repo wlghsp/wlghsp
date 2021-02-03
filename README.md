@@ -4,10 +4,11 @@
 
  My major is **Business Administration:books:**, and I have been studying **computer science:computer:** since Fall, 2019. I have project experience using **Python(My most confident language)**, Java & Android languages. I am interested in **machine learning** and I am studying now. 
 
-### :purple_heart: Career
+### :purple_heart: education
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Education** | 2003. 3 ~ 2011.8 | Department of Business Administration | **Chonnam National University** |
 | **:mortar_board: Education** | 2019. 9 ~ Present | Department of Computer Science | **Korea National Open University** |
 | **External activities** | 2019. 10 ~ 2020. 4 | Java Web & App | **Hanul Vocational Institute** |
 | **External activities** | 2020. 5 ~ 2020. 11 | Machine Learning & Deep Learning | **Gwangju AI School** |
