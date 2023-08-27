@@ -58,7 +58,7 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/wlghsp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Easy-Hwan&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlghsp&hide=jupyter%20notebook ,contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
   
