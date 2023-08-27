@@ -3,8 +3,8 @@
 <h2 align="center"> Hi👋, I'm Jiho!🤗</h2>
 <h3 align="center">I am back-end developer who love development</h3>
 <p align="center">
-  I believe in the strength of communication and collaboration<br/>
-  hope the work I do bring good to the world<br/><br/>
+  I study every day to become a better developer and person<br/>
+  May the Force be with you<br/><br/>
   🇰🇷
 </p>
 
