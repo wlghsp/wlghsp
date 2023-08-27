@@ -54,14 +54,7 @@
   <a href="https://github.com/wlghsp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlghsp&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=jupyter%20notebook,HTML,Objective%2DC,c,scss,shell,ruby,dart,swift" />
   </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/wlghsp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlghsp&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
-  </a>
-</p>
-  
+</p>  
 <br>
 <h3 align="center">💡 My Git View Count 💡</h3>
 <p align="center">
