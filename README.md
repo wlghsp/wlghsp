@@ -27,8 +27,8 @@
 ### 📊 GitHub 통계
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wlghsp&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlghsp&layout=compact&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wlghsp&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wlghsp&layout=compact&hide_border=true"/>
 </p>
 
 <p align="left">
