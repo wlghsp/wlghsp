@@ -26,6 +26,10 @@
 ### 📊 GitHub 통계
 
 <p align="left">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wlghsp&show_icons=true&theme=default&hide_border=true"/>
+</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wlghsp&hide_border=true"/>
 </p>
 
