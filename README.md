@@ -8,8 +8,7 @@
 
 ### 🔭 지금 하고 있는 것
 
-- **[mini-claude](https://github.com/wlghsp/mini-claude)** — Claude Code 같은 에이전트 CLI를 직접 만들어보며 내부 원리를 학습
-- **[etude](https://github.com/wlghsp/etude)** — 오케스트로 현장 실습 트레이닝 플랫폼 개발
+- **[etude](https://github.com/wlghsp/etude)** — 현장 실습 트레이닝 플랫폼 개발
 - **[dev-notes](https://github.com/wlghsp/dev-notes)** — JVM, DB Internals를 원리부터 파고드는 학습 노트와 용어집
 
 ### 🛠 기술 스택
