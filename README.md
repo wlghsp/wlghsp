@@ -11,6 +11,8 @@
 - **[etude](https://github.com/wlghsp/etude)** — 오케스트로 현장 실습 트레이닝 플랫폼 개발
 - **[external-api-training](https://github.com/wlghsp/external-api-training)** — 외부 API 연동 트레이닝
 - **[dev-notes](https://github.com/wlghsp/dev-notes)** — JVM, DB Internals를 원리부터 파고드는 학습 노트와 용어집
+- [![JPA 내부 동작 검증 챌린지 1기 완주](https://dingco.net/api/challenges/credentials/f297ddaa-e328-4717-92d2-07652b4af168/badge.svg)](https://dingco.net/challenges/credentials/f297ddaa-e328-4717-92d2-07652b4af168)
+
 
 ### 🛠 기술 스택
 
